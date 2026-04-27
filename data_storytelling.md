@@ -8,7 +8,7 @@ The most consequential finding: Spirituality, Gratitude, and Hope appear togethe
 
 **How to interact:** Click through the story to follow the narrative arc. Hover over data points, map regions, and chart elements to see detailed tooltips with group-level statistics and sample sizes.
 
-<div style="width:calc(100vw - 230px);margin-left:-30px;">
+<div style="width:calc(100vw - 300px);margin-left:-30px;">
 <div class="flourish-embed flourish-story" data-src="story/3658753"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </div>
 
