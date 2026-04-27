@@ -1,3 +1,5 @@
+<a href="https://kirstencalloway.github.io/kirsten-calloway/" style="display:inline-block;margin-bottom:20px;font-family:'Spectral SC',serif;font-size:13px;letter-spacing:0.03em;color:#3A352D;text-decoration:none;border-bottom:1px solid #D8D2C4;padding-bottom:2px;">← Return to Portfolio</a>
+
 ## Where Does Hope Live?
 
 Positive psychology faces a generalizability crisis: multiracial individuals — and Black communities specifically — remain underrepresented in the literature that shapes intervention design. This storyboard presents findings from my capstone research examining character strength constellations across three racial groups (Monoracial Black, Monoracial White, and Black-White Biracial) using VIA Institute data from 7,047 U.S. participants.
